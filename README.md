@@ -9,9 +9,6 @@ Tinderと同じ機能を持っています.
 <img src="screen/screen3.png" ></img> <br/>
 <img src="screen/screen4.png" ></img> <br/>
 
-## Download
-
-* [LoveDating](https://github.com/quintuslabs/DatingApp/blob/master/lovedating1.2.apk) - Download APK
 <br/>
 Eメール：fantasydev1225@gmail.com
 
