@@ -10,6 +10,3 @@ Tinderと同じ機能を持っています.
 <img src="screen/screen4.png" ></img> <br/>
 
 <br/>
-Eメール：fantasydev1225@gmail.com
-
-
